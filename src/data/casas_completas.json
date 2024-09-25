@@ -1,0 +1,34 @@
+{
+    "AC": {
+        "descripcion": "La Casa 1, también conocida como el Ascendente, es posiblemente la más personal de todas las casas en la carta natal. Es la puerta de entrada a la carta natal y, por lo tanto, a la persona en sí misma. Esta casa es la que se encuentra en el horizonte oriental en el momento del nacimiento de una persona. Se asocia con la identidad individual, la personalidad externa y la primera impresión que una persona causa en los demás. Esta casa rige la autoimagen, la apariencia física y la forma en que uno proyecta a los demás. La Casa 1 también representa el 'yo' físico, por lo que puede dar indicaciones sobre la constitución física, la salud y la vitalidad general de una persona. Además de ser la casa del 'yo', la Casa 1 también está asociada con la iniciativa y el liderazgo. Es la casa de la acción, de 'saltar' a la vida y de ser un pionero. Esta casa habla de cómo uno se lanza al mundo, de la actitud frente a la vida y de cómo uno inicia proyectos y acciones. Por otro lado, los aprendizajes de la Casa 1 giran en torno a la identidad personal. Aquí, el individuo se enfrenta a las lecciones de aprender a expresar su auténtica personalidad y a desarrollar su individualidad. La Casa 1 pide al individuo que aprenda a afirmarse, a ser valiente y a tomar la iniciativa en la vida. De un punto de vista más psicológico, la Casa 1 muestra cómo uno se percibe a sí mismo y cómo quiere ser visto por los demás. Aquí es donde se desarrolla la identidad personal, y cómo uno se ajusta (o se resiste a ajustarse) a las expectativas de la sociedad.",
+        "signos": {
+            "Aries": "",
+            "Tauro": "",
+            "Geminis": "",
+            "Cancer": "",
+            "Virgo": "",
+            "Libra": "",
+            "Escorpio": "",
+            "Sagitario": "",
+            "Capricornio": "",
+            "Acuario": "",
+            "Piscis": ""
+        }
+    },
+    "I": {
+        "descripcion": "",
+        "signos": {
+            "Aries": "",
+            "Tauro": "",
+            "Geminis": "",
+            "Cancer": "",
+            "Virgo": "",
+            "Libra": "",
+            "Escorpio": "",
+            "Sagitario": "",
+            "Capricornio": "",
+            "Acuario": "",
+            "Piscis": ""
+        }
+    }
+}
